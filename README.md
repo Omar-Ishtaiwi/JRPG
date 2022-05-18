@@ -5,6 +5,5 @@ This a Java game where players are in control of a "monster" that has an element
 # Running The Game
 
 
-# Screenshots
 
 
